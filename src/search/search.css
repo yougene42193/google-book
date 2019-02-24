@@ -1,0 +1,15 @@
+.searchbar {
+    text-align: center;
+    background-color: rgb(179, 179, 179);
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#search {
+    border-radius: 5px;
+}
+
+#submit-button {
+    border-radius: 5px;
+}
